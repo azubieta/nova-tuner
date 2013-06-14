@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# -*- coding: utf-8 -*-
+PYTHONPATH="/usr/share/pyshared" python /usr/share/pyshared/nova_tunner/nova_tunner.py
